@@ -1,0 +1,28 @@
+name: ipcc_py37
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.7
+  - requests
+  - cartopy
+  - dask
+  - netcdf4=1.4.1
+  - numpy
+  - pip
+  - scipy
+  - pandas
+  - xarray
+  - click
+  - pyyaml
+  - pillow
+  - matplotlib
+  - r-essentials
+  - r-base
+  - cartopy
+  - dask
+  - requests
+  - bottleneck
+  - pip:
+    - projmap

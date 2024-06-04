@@ -1,0 +1,13 @@
+diff --git a/CO2_IPCC_colours_clean.R b/CO2_IPCC_colours_clean.R
+index dd0c7eb..9dec5c1 100644
+--- a/CO2_IPCC_colours_clean.R
++++ b/CO2_IPCC_colours_clean.R
+@@ -1,7 +1,7 @@
+ #GF 11/11/2020
+ #Code for Figure 2.3
+ 
+-setwd("")
++#setwd("")
+ 
+ #Data input
+ #gas
