@@ -1,5 +1,10 @@
 #/bin/sh
 
+eval "$(conda shell.bash hook)"
+
+conda activate ipcc_ch2f3
+
+
 DIR=Chapter-2_Fig03
 
 # Apply changes to produce figure of $DIR
