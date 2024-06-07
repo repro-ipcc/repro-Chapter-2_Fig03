@@ -1,4 +1,4 @@
-#/bin/sh
+#/bin/bash
 
 eval "$(conda shell.bash hook)"
 

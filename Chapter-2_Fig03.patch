@@ -1,5 +1,5 @@
 diff --git a/CO2_IPCC_colours_clean.R b/CO2_IPCC_colours_clean.R
-index dd0c7eb..9dec5c1 100644
+index dd0c7eb..bd75685 100644
 --- a/CO2_IPCC_colours_clean.R
 +++ b/CO2_IPCC_colours_clean.R
 @@ -1,7 +1,7 @@
@@ -7,7 +7,16 @@ index dd0c7eb..9dec5c1 100644
  #Code for Figure 2.3
  
 -setwd("")
-+#setwd("")
++# setwd("")
  
  #Data input
  #gas
+@@ -139,7 +139,7 @@ polygon(c(PhanCO2sm$age,rev(PhanCO2sm$age)),c(PhanCO2sm$lw95, rev(PhanCO2sm$up95
+ lines (PhanCO2sm$age, PhanCO2sm$pmaxCO2, col=rgb(0,79,0, max=255), lwd=2)
+ 
+ text (300, 2500, "d13C-paleosols", col=rgb(0, 52, 102, max=255), cex=0.8)
+-text (130, 350, "stomata", col=rgb(178, 178, 178, max=255), cex=0.8)
++text (320, 2400, "stomata", col=rgb(178, 178, 178, max=255), cex=0.8)
+ 
+ title (xlab="Age (Myr)", line=1.5, cex.lab=0.8)
+ title (ylab="CO2 (ppm)", line=2.5, cex.lab=0.8)
