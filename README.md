@@ -36,3 +36,12 @@ bash run.sh
 
 The figure is left in Chapter-2_Fig03.pdf
 
+## Issues
+
+### 2024-06-09
+
+The generated figure is different from the one in the report. It is not clear whether only the captions and legends are different or if data is different as well.
+
+Possible fixes include:
+- connecting to the author(s) and asking for clarifications and complements
+- trying to fix the figure looking at the report's figure
