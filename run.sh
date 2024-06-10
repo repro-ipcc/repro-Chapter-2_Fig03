@@ -15,7 +15,7 @@ ln -s PhanCO2F_feb2021.txt PhanCO2F.txt
 
 Rscript CO2_IPCC_colours_clean.R
 
-mv Rplots.pdf ../${DIR}.pdf
+mv Rplots.pdf ../IPCC_AR6_WGI_Figure_2_3c.pdf
 
 # Remove the changes
 rm PhanCO2F.txt
