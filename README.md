@@ -3,7 +3,7 @@
 
 | Input | Running | Output | Quality | Post-process |
 |-------|---------|--------|---------|--------------|
-| ![Code](https://img.shields.io/badge/Code-Complete-green) <br> ![Dependence](https://img.shields.io/badge/Dependence-Complete-green) <br> ![Data](https://img.shields.io/badge/Data-Complete-green) | ![Running](https://img.shields.io/badge/Running-green) | ![Full](https://img.shields.io/badge/1/3-Full-green) <br> ![Partial](https://img.shields.io/badge/0/3-Partial-orange) <br> ![Missing](https://img.shields.io/badge/2/3-Missing-red) | ![Same](https://img.shields.io/badge/0/1-Same-green) <br> ![Similar](https://img.shields.io/badge/1/1-Similar-orange) <br> ![Different](https://img.shields.io/badge/0/1-Different-red) | ![Self-contained](https://badgen.net/static/Self-contained/B/orange) <br> ![Auto](https://badgen.net/badge/color/Auto/gray?label=) ![Manual](https://badgen.net/badge/color/Manual/gray?label=) |
+| ![Code](https://img.shields.io/badge/Code-Complete-green) <br> ![Dependence](https://img.shields.io/badge/Dependence-Complete-green) <br> ![Data](https://img.shields.io/badge/Data-Complete-green) | ![Running](https://img.shields.io/badge/Running-green) | ![Full](https://img.shields.io/badge/1/3-Full-green) <br> ![Partial](https://img.shields.io/badge/0/3-Partial-orange) <br> ![Missing](https://img.shields.io/badge/2/3-Missing-red) | ![Same](https://img.shields.io/badge/0/1-Same-green) <br> ![Similar](https://img.shields.io/badge/1/1-Similar-orange) <br> ![Different](https://img.shields.io/badge/0/1-Different-red) | ![Auto](https://img.shields.io/badge/Auto-orange) ![Manual](https://img.shields.io/badge/Manual-orange) |
 
 
 Project to re-create the IPCC AR6 WG1 figures. See https://ipcc.ch and https://github.com/IPCC-WG1
